@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Bootstrap Pack"
+  short_description: "Name, license, README, and launch copy"
+  default_prompt: "Use $project-bootstrap-brand-pack to generate project naming, phonetic, license choice, GitHub description, and README from this brief."

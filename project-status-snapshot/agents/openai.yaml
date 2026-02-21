@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Status Snapshot"
+  short_description: "Generate compact actionable project status"
+  default_prompt: "Use $project-status-snapshot to report current branch, PR, checks, blockers, and the next concrete actions."

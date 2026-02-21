@@ -1,0 +1,4 @@
+interface:
+  display_name: "Overnight PR Loop"
+  short_description: "Run chained improve-review-deliver cycles"
+  default_prompt: "Use $overnight-pr-loop to run a chained overnight implementation loop with small PRs and review-driven iterations."

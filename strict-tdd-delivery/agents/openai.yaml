@@ -1,0 +1,4 @@
+interface:
+  display_name: "Strict TDD Delivery"
+  short_description: "Test-first milestones with runnable checkpoints"
+  default_prompt: "Use $strict-tdd-delivery to implement this feature with failing tests first and milestone-based passing checkpoints."

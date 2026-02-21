@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Review Triage"
+  short_description: "Classify and process PR feedback cleanly"
+  default_prompt: "Use $pr-review-triage to process review comments on open PRs and push minimal validated fixes."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Project Sync"
+  short_description: "Sync repos into structured Obsidian docs"
+  default_prompt: "Use $obsidian-project-sync to consolidate projects into per-project Obsidian folders with linked core docs."
