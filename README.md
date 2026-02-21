@@ -60,3 +60,14 @@ Each skill follows:
 - Keep `name` in `SKILL.md` equal to the folder name.
 - Keep `agents/openai.yaml` `default_prompt` referencing `$<skill-name>`.
 - Do not version `/Users/jonas/.codex/skills/.system` in this repo.
+
+<!-- status:start -->
+## Status
+- State: active
+- Summary: Define current milestone.
+- Next: Define next concrete step.
+- Updated: 2026-02-21
+- Branch: `main`
+- Working Tree: dirty (2 files)
+- Last Commit: 714aa52 (2026-02-21) Add 7 reusable agent skills for Codex and Claude
+<!-- status:end -->
